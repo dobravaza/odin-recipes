@@ -1,0 +1,31 @@
+* {
+    font-family: 'Merriweather', serif;
+    background-color: gray;
+}
+.main{
+    flex-wrap: wrap;
+display: flex;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+
+}
+span{
+    display: flex;
+margin: 0 auto;
+    width: 600px;
+
+}
+
+.fota{
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+
+    li {
+        display: flex;
+        justify-content: center;
+    }

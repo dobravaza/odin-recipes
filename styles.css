@@ -1,0 +1,68 @@
+*{
+    font-family: 'Poppins', sans-serif;
+background-image: url(/images-main/background.jpg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size: cover;
+}
+a{
+    border-radius: 100%;
+}
+.copyright{
+
+    display:flex;
+    justify-content:center;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+    font-weight: 400;
+
+}
+.content{
+ display:flex;
+    justify-content:center;
+    margin-top: 100px;
+    
+}
+.item{
+    display:flex;
+    justify-content:center;
+    gap: 325px;
+    flex-wrap: wrap;
+
+}
+.recipe1{
+    border-radius: 100%;
+    height: 300px;
+    background-color: blue;
+
+
+}
+.recipe2{
+    border-radius: 100%;
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+
+}
+.recipe3{
+    border-radius: 100%;
+    height: 300px;
+    background-color: blue;
+
+}
+
+
+img:hover {
+
+        box-shadow: 0 0 0 10px #000000;
+        transition: .5s ease;
+}
+.copyright {
+    display:flex;
+    justify-content:center;
+
+    flex-wrap: wrap;
+}
