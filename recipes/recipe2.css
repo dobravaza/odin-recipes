@@ -19,10 +19,13 @@ margin: 0 auto;
 
 }
 
-.fota{
+
+img {
+    height: 350px;
+    height: 350px;
+
     display: flex;
-    justify-content: center;
-    height: 300px;
+   margin: 0 auto;
 }
 
     li {
